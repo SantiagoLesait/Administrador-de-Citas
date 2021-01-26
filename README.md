@@ -4,4 +4,4 @@ Este proyecto utiliza React para renderizar los elementos en una unica pagina. L
 
 ## Sitio web del proyecto
 
-(https://administrador-citas-veterinario.netlify.app/)
+https://administrador-citas-veterinario.netlify.app/
